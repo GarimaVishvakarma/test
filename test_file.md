@@ -1,3 +1,3 @@
 ```
-*_Welcome to GitHub.._*
+_Welcome to GitHub_
 ```
